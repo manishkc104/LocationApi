@@ -10,6 +10,7 @@ using MeetUpWebApi.Models;
 namespace MeetUpWebApi.Controllers
 {
     [Route("api/[controller]")]
+
     [ApiController]
     public class UserEmergenciesController : ControllerBase
     {

@@ -17,7 +17,6 @@ E:\GauravFYP\Backup_FYP\Webapiproject\MeetUpWebApi\MeetUpWebApi\bin\Debug\netcor
 E:\GauravFYP\Backup_FYP\Webapiproject\MeetUpWebApi\MeetUpWebApi\bin\Debug\netcoreapp2.1\MeetUpWebApi.runtimeconfig.dev.json
 E:\GauravFYP\Backup_FYP\Webapiproject\MeetUpWebApi\MeetUpWebApi\bin\Debug\netcoreapp2.1\MeetUpWebApi.dll
 E:\GauravFYP\Backup_FYP\Webapiproject\MeetUpWebApi\MeetUpWebApi\bin\Debug\netcoreapp2.1\MeetUpWebApi.pdb
-E:\GauravFYP\Backup_FYP\Webapiproject\MeetUpWebApi\MeetUpWebApi\obj\Debug\netcoreapp2.1\MeetUpWebApi.csprojResolveAssemblyReference.cache
 E:\GauravFYP\Backup_FYP\Webapiproject\MeetUpWebApi\MeetUpWebApi\obj\Debug\netcoreapp2.1\MeetUpWebApi.csproj.CoreCompileInputs.cache
 E:\GauravFYP\Backup_FYP\Webapiproject\MeetUpWebApi\MeetUpWebApi\obj\Debug\netcoreapp2.1\MeetUpWebApi.RazorAssemblyInfo.cache
 E:\GauravFYP\Backup_FYP\Webapiproject\MeetUpWebApi\MeetUpWebApi\obj\Debug\netcoreapp2.1\MeetUpWebApi.RazorAssemblyInfo.cs
@@ -26,3 +25,4 @@ E:\GauravFYP\Backup_FYP\Webapiproject\MeetUpWebApi\MeetUpWebApi\obj\Debug\netcor
 E:\GauravFYP\Backup_FYP\Webapiproject\MeetUpWebApi\MeetUpWebApi\obj\Debug\netcoreapp2.1\MeetUpWebApi.RazorTargetAssemblyInfo.cache
 E:\GauravFYP\Backup_FYP\Webapiproject\MeetUpWebApi\MeetUpWebApi\obj\Debug\netcoreapp2.1\MeetUpWebApi.dll
 E:\GauravFYP\Backup_FYP\Webapiproject\MeetUpWebApi\MeetUpWebApi\obj\Debug\netcoreapp2.1\MeetUpWebApi.pdb
+E:\GauravFYP\Backup_FYP\Webapiproject\MeetUpWebApi\MeetUpWebApi\obj\Debug\netcoreapp2.1\MeetUpWebApi.csprojAssemblyReference.cache

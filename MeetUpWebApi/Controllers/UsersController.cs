@@ -80,7 +80,8 @@ namespace MeetUpWebApi.Controllers
                                       p.UserID,
                                       p.UserName,
                                       p.UserEmail,
-                                      p.Password
+                                      p.Password,
+                                      p.FbID
                                   }).SingleOrDefault();
                 return Ok(result);
                 }

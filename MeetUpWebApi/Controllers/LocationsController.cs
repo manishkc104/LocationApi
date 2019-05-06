@@ -9,7 +9,9 @@ using MeetUpWebApi.Models;
 
 namespace MeetUpWebApi.Controllers
 {
-    [Route("api/[controller]")]
+    [Produces("application/json")]
+    [Route("api/locations")]
+
     [ApiController]
     public class LocationsController : ControllerBase
     {

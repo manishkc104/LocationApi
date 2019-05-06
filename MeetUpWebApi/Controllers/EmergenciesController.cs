@@ -9,7 +9,8 @@ using MeetUpWebApi.Models;
 
 namespace MeetUpWebApi.Controllers
 {
-    [Route("api/[controller]")]
+    [Produces("application/json")]
+    [Route("api/emergencies")]
     [ApiController]
     public class EmergenciesController : ControllerBase
     {
